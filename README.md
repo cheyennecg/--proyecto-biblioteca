@@ -1,10 +1,10 @@
-📚 Proyecto de Análisis de Datos — Biblioteca
+## 📚 Proyecto de Análisis de Datos — Biblioteca
 
 Este proyecto presenta un análisis exploratorio y descriptivo de los datos operativos de una biblioteca a lo largo de un año completo. A partir de un compendio de datos históricos, se estudian los patrones de préstamo, los momentos de mayor actividad y el comportamiento de los usuarios en relación con las devoluciones.
 
 El objetivo principal es transformar los datos en información útil que permita comprender mejor la dinámica de uso de la biblioteca y apoyar la toma de decisiones estratégicas.
 
-🔎 Alcance del análisis
+# 🔎 Alcance del análisis
 
 El estudio incluye:
 
@@ -16,7 +16,7 @@ El estudio incluye:
 
 ⏳ Nivel de puntualidad en las devoluciones, evaluando el comportamiento de los usuarios respecto a los plazos establecidos.
 
-🎯 Objetivos
+# 🎯 Objetivos
 
 Identificar patrones de uso y estacionalidad.
 
@@ -26,7 +26,7 @@ Analizar los periodos de mayor actividad para optimizar recursos.
 
 Evaluar la puntualidad en devoluciones para mejorar la gestión del préstamo.
 
-🛠️ Metodología
+# 🛠️ Metodología
 
 Se emplean técnicas de análisis de datos y visualización para explorar, limpiar y procesar la información. Los resultados se presentan mediante métricas descriptivas y representaciones gráficas que facilitan la interpretación de los datos.
 
